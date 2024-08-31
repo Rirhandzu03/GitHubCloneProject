@@ -1,3 +1,2 @@
 
 This is a new feature
-This feature helps to fix bugs
